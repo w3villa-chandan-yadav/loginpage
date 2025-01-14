@@ -134,7 +134,7 @@ img:hover{
     }
   }
 
-  @media (max-width:528px) {
+  @media (max-width:608px) {
     .inner_container{
         width: 65%;
     }
