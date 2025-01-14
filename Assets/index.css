@@ -27,6 +27,8 @@ box-sizing: border-box;
     /* justify-content: center; */
     /* align-items: center; */
     flex-direction: column;
+     box-shadow: 1px 1px 33px 4px gray;
+
 }
 
 .inner_container > h2{
